@@ -1,2 +1,2 @@
 # witheredyttv.github.io
-A website for the ColossalCheatMenuV2 mod menu.
+A website for the Colossal mod menu.
